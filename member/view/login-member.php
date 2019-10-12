@@ -124,7 +124,7 @@ body {
     
 <form method="post" id="frmLoginMember" name="frmLoginMember" class="form-signin">
       <img class="mb-4" src="https://getbootstrap.com/assets/brand/bootstrap-solid.svg" alt="" width="72" height="72">
-      <h1 class="h3 mb-3 font-weight-normal">Login Accounts Panel</h1>
+      <h1 class="h3 mb-3 font-weight-normal">Login Account Panel</h1>
    
     <div class="form-group">
       <label for="inputEmail" class="sr-only">Email ID:</label>
@@ -141,7 +141,7 @@ body {
           <input type="checkbox" value="remember-me"> Remember me
         </label>
       </div>
-      <button class="btn btn-lg btn-primary btn-block" type="submit">Sign in</button>
+      <button class="btn btn-lg btn-primary btn-block" type="submit">Login in</button>
       <p class="mt-5 mb-3 text-muted">&copy; 2018-2019</p>
 
             <input type="hidden" name="action" value="login-member">
