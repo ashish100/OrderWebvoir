@@ -124,10 +124,10 @@ body {
     
 <form method="post" id="frmLoginMember" name="frmLoginMember" class="form-signin">
       <img class="mb-4" src="https://getbootstrap.com/assets/brand/bootstrap-solid.svg" alt="" width="72" height="72">
-      <h1 class="h3 mb-3 font-weight-normal">Login Panel</h1>
+      <h1 class="h3 mb-3 font-weight-normal">Login Accounts Panel</h1>
    
     <div class="form-group">
-      <label for="inputEmail" class="sr-only">Email address</label>
+      <label for="inputEmail" class="sr-only">Email ID:</label>
         <input type="text" name="txtLoginID" class="form-control" id="txtLoginID" placeholder="Email Address" >
      </div>   
 
